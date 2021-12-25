@@ -1,0 +1,16 @@
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\pattertn_state_learn.exe
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\pattertn_state_learn.deps.json
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\pattertn_state_learn.runtimeconfig.json
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\pattertn_state_learn.runtimeconfig.dev.json
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\pattertn_state_learn.dll
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\ref\pattertn_state_learn.dll
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\bin\Debug\net5.0\pattertn_state_learn.pdb
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.csproj.AssemblyReference.cache
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.AssemblyInfoInputs.cache
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.AssemblyInfo.cs
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.csproj.CoreCompileInputs.cache
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.dll
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\ref\pattertn_state_learn.dll
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.pdb
+D:\Programming\Sharp\pattertn_state_learn\pattertn_state_learn\obj\Debug\net5.0\pattertn_state_learn.genruntimeconfig.cache
